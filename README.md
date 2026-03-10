@@ -63,6 +63,3 @@ El uso de **modelos predictivos** permite anticipar qué clientes tienen mayor p
 
 
 
-- Scikit-learn
-- Matplotlib / Seaborn
-- Jupyter Notebook
